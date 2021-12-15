@@ -105,7 +105,7 @@ ini ada output apabila memilih ubah(2)
                 ![img](gambar/u1.png)
 
 ini adalah output apabila memilih ditambah lagi
-                ![img](tambah1.png)
+                ![img](gambar/tambah1.png)
 
 ini adalah output apabila memilih hapus(3) 
                 ![img](gambar/hapus.png)
