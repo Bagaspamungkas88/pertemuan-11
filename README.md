@@ -3,7 +3,7 @@
 # latihan
 pada latihan 11 saya diberi soal
 
-! [img](gambar/soal1.png)
+![img](gambar/soal1.png)
 
 
 # jawab
@@ -102,10 +102,10 @@ ini adalah output apabila memilih ditambah (1)
                 ![img](gambar/tambah.png)
 
 ini ada output apabila memilih ubah(2)
-                ![img](gambar/ubag.png)
+                ![img](gambar/u1.png)
 
 ini adalah output apabila memilih ditambah lagi
-                ![img](tambahlagi.png)
+                ![img](tl1.png)
 
 ini adalah output apabila memilih hapus(3) 
                 ![img](gambar/hapus.png)
